@@ -2,3 +2,5 @@
 <h1>Jai Datta Swami</h1>
 <h1>Jai Satya Sai Baba</h1>
 Jai Datta
+<h1>Jai Satya Sai Baba</h1>
+Jai Datta
